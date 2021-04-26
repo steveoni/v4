@@ -53,14 +53,14 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Stephen Oni.</h2>;
+  const three = <h3 className="big-heading">I build data things</h3>;
   const four = (
     <p>
-      I'm a Boston-based software engineer who specializes in building (and occasionally designing)
-      exceptional digital experiences. Currently, I'm an engineer at{' '}
-      <a href="https://upstatement.com/">Upstatement</a> focused on building accessible,
-      human-centered products.
+      I'm a software engineer who is into building data driven tools and products (Data Science /
+      Machine Learning). Currently, I'm an engineer at{' '}
+      <a href="https://www.datopian.com/">Datopian</a> focused on building Data management system,
+      and also doing my masters in Machine Intelligence at <a href="https://aimsammi.org/">AIMS</a>
     </p>
   );
   const five = (
