@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://steveoni.github.io/sitemap.xml
+Host: https://steveoni.github.io
