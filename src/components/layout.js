@@ -105,6 +105,20 @@ const Layout = ({ children, location }) => {
               </div>
             </StyledContent>
           )}
+          {/* {
+            isHome && (
+              <StyledContent>
+                <Nav isHome={isHome} />
+                <Social isHome={isHome} />
+                <Email isHome={isHome} />
+
+                <div id="content">
+                  {children}
+                  <Footer />
+                </div>
+              </StyledContent>
+            )
+          } */}
         </ThemeProvider>
       </div>
     </>

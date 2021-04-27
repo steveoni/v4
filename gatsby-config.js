@@ -1,11 +1,12 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/v4',
   siteMetadata: {
     title: 'Stephen Oni',
     description:
       'Stephen Oni is a software engineer who specializes in building Data driven tools and products',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://steveoni.github.io/v4', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@steveoni',
   },
