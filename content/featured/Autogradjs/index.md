@@ -8,4 +8,4 @@ tech:
 showInProjects: true
 ---
 
-A minimalistic Deep Learning Library having a close api design to Pytorch, for teaching purpose: support computational graph vizualization and capable of doing word embedding: Here is the article on medium: <a href="https://heartbeat.fritz.ai/create-a-deep-learning-library-in-javascript-from-scratch-part-1-a5ac69c65a3d">Part 1</a>
+A minimalistic Deep Learning Library having a close api design to Pytorch, for teaching purpose: support computational graph vizualization and capable of doing word embedding: Here is the article on medium: <a href="https://heartbeat.fritz.ai/create-a-deep-learning-library-in-javascript-from-scratch-part-5-dcb7329d2201">Series</a>

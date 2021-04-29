@@ -139,6 +139,7 @@ const About = () => {
     'Tensorflow',
     'Node.js',
     'Python',
+    'Docker',
     'PyData stack',
   ];
 
@@ -159,7 +160,12 @@ const About = () => {
               <a href="https://github.com/imgcook/datacook">Datacook</a> e.t.c.
             </p>
 
-            <p>Here are a few technologies I've been working with recently:</p>
+            <p>
+              As a machine learning Engineer my main interest is in Natural language processing,
+              also i do some computer vision alongside.
+            </p>
+
+            <p>Here are a few technologies I've been working with:</p>
           </div>
 
           <ul className="skills-list">
