@@ -151,9 +151,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              My name is Stephen (steveoni), I love creating things that are data driven. Currently
+              My name is Stephen (steveoni), I love creating things that are data driven. Currently,
               I found my self at the frontier of enabling data science and machine learning in the
-              Browser using Javascript (Nodejs, Typescript) by building and contributing to
+              Browser using Javascript (Nodejs, Typescript); by building and contributing to
               opensource project such as{' '}
               <a href="https://github.com/opensource9ja/danfojs">Danfojs</a>,{' '}
               <a href="https://github.com/opensource9ja/dnotebook">Dnotebook</a>,
@@ -161,8 +161,8 @@ const About = () => {
             </p>
 
             <p>
-              As a machine learning Engineer my main interest is in Natural language processing,
-              also i do some computer vision alongside.
+              As a machine learning Engineer, my main interest is in Natural language processing,
+              also, I do some computer vision alongside.
             </p>
 
             <p>Here are a few technologies I've been working with:</p>

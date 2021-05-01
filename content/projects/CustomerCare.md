@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-This article show how to build end-end product from data gathering, cleaning , training and deploying the model. It shows how to use Deep learning in financial institute to solve customer service response rate
+This article shows how to build end-end product from data gathering, cleaning , training and deploying the model. It shows how to use Deep learning in financial institute to solve customer service response rate

@@ -8,5 +8,5 @@ url: 'https://www.linkedin.com/company/iqube-labs/'
 ---
 
 - Created a platform model and database structure using hibernate
-- Built an a school management enterprise product using spring framework
+- Built a school management enterprise product using spring framework
 - Redesign Mantis (a product mangement software) using PHP, to suite the company taste.
