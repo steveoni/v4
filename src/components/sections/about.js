@@ -161,8 +161,8 @@ const About = () => {
             </p>
 
             <p>
-              As a machine learning Engineer, my main interest is in Natural language processing,
-              also, I do some computer vision alongside.
+              As a machine learning Engineer, i've worked in the areas of computer vision, Natural
+              Language processing and Model Development. And my Research interest is in Privacy AI.
             </p>
 
             <p>Here are a few technologies I've been working with:</p>
